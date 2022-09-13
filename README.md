@@ -1,3 +1,0 @@
-# FirstWebsite
-First activity
-test
